@@ -6,6 +6,10 @@ A Mac OS Terminal profile, using a Material Design color palette. Based on [Hype
 
 ## Using this Profile
 
-Open the Mac Terminal app. Go to Terminal > Preferences > Profiles. Click on the gear at the bottom-left of the window and select "Import". Select the `Material.terminal` file from this repo and import it. Now, click on the "Material" profile and make sure to click "Default" at the bottom-left of the screen to make this the default profile that is used on startup!
+Clone this repo:
 
-Enjoy. :)
+```shell
+$ git clone git@github.com:jbw91/mac-terminal-material.git
+```
+
+Open the Mac Terminal app. Go to Terminal > Preferences > Profiles. Click on the gear at the bottom-left of the window and select "Import". Select the `Material.terminal` file from this repo and import it. Now, click on the "Material" profile and make sure to click "Default" at the bottom-left of the screen to make this the default profile that is used on startup!
